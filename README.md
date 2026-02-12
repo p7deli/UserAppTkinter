@@ -33,7 +33,7 @@ A modern desktop application for managing member information with a beautiful us
 
 ## 📸 Screenshots
 
-[Add screenshots here showing the application interface]
+<img width="1366" height="768" alt="Screenshot (610)" src="https://github.com/user-attachments/assets/1b283ef7-34ac-4dee-9fa0-7142d1ad15ee" />
 
 ## 📦 Requirements
 
@@ -47,7 +47,7 @@ A modern desktop application for managing member information with a beautiful us
 
 ### Step 1: Clone the repository
 ```bash
-git clone https://github.com/yourusername/user_app.git
+git clone https://github.com/p7deli/UserAppTkinter.git
 cd user_app
 ```
 
@@ -235,7 +235,7 @@ For issues, questions, or suggestions, please open an issue on GitHub.
 
 #### مرحله 1: کلون کردن مخزن
 ```bash
-git clone https://github.com/yourusername/user_app.git
+git clone https://github.com/p7deli/UserAppTkinter.git
 cd user_app
 ```
 
